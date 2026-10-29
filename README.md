@@ -27,6 +27,10 @@ Sơn vẫn phải biết **điểm giao tiếp** với các phần trên, nhưng
 
 ## Thứ tự đọc
 
+Nếu bạn chỉ có **1 giờ**, đọc thẳng [11 — Hiểu toàn bộ luồng và code trong 60 phút](11-hieu-toan-bo-trong-60-phut.md), vừa đọc vừa mở các method trong bảng “Phao mở code”.
+
+Nếu học kỹ để phản biện, đọc bộ đầy đủ theo thứ tự dưới đây:
+
 1. [00 — Lộ trình học](00-lo-trinh-hoc.md)
 2. [01 — Tổng quan và luồng end-to-end](01-tong-quan-va-luong-gameplay.md)
 3. [02 — Sinh bản đồ, đối xứng và BFS](02-sinh-map-va-bfs.md)
