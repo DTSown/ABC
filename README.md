@@ -75,3 +75,4 @@ Bảng phân công gốc ghi bản ZIP chưa có stun, nhưng repository hiện 
 > Client chỉ gửi ý định di chuyển, không gửi tọa độ hay điểm. Server kiểm tra luật, cập nhật trạng thái dưới khóa Room rồi gửi cùng một `GAME_STATE` cho hai Client. Vì vậy Server là nguồn sự thật và hai màn hình luôn được đồng bộ.
 
 # ltm
+"# ABC" 
